@@ -1,0 +1,68 @@
+#elemento-pai{
+    width: 1000px;
+    height: 700px;
+    background-color: #ccc;
+    position: relative;
+    
+}
+
+.posrelativa{
+    position: relative;
+    width: 150px;
+    height: 150px;
+
+}
+
+.posabsoluta{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 400px;
+    height: 500px;
+
+}
+
+.azul {
+    background-color: white;
+    margin-left: 30px;
+    width: 450px;
+    height: 600px;
+    
+
+}
+
+.foto{
+
+    margin-left: 30px;
+    width: 400px;
+    height: 470px;
+    margin-top: 120px;
+    margin-left: 60px;
+}
+
+.branco{
+    background-color: #ccc;
+    margin-top: 40px;
+    height: 70px;
+    width: 400px;
+    margin-left: 70px;
+    
+}
+
+.textinho{
+    font-size: 17px;
+    margin-top: 65px;
+    margin-left: 220px;
+}
+
+.textao {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 520px;
+    
+    
+    display: flex;
+    text-align: justify;
+
+}
