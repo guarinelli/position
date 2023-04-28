@@ -2,15 +2,7 @@
     width: 1000px;
     height: 700px;
     background-color: #ccc;
-    position: relative;
-    
-}
-
-.posrelativa{
-    position: relative;
-    width: 150px;
-    height: 150px;
-
+    position: relative;   
 }
 
 .posabsoluta{
@@ -19,50 +11,41 @@
     left: 50px;
     width: 400px;
     height: 500px;
-
 }
 
-.azul {
+.fundobranco {
     background-color: white;
     margin-left: 30px;
     width: 450px;
     height: 600px;
-    
-
 }
 
 .foto{
-
+    width: 450px;
+    height: 490px;
+    margin-top: 100px;
     margin-left: 30px;
-    width: 400px;
-    height: 470px;
-    margin-top: 120px;
-    margin-left: 60px;
 }
 
-.branco{
+.topocinza{
     background-color: #ccc;
-    margin-top: 40px;
+    margin-top:20px;
+    margin-left: 55px;
     height: 70px;
     width: 400px;
-    margin-left: 70px;
-    
 }
 
-.textinho{
+.titulo{
     font-size: 17px;
-    margin-top: 65px;
-    margin-left: 220px;
+    margin-top: 45px;
+    margin-left: 210px;
 }
 
-.textao {
+.texto {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     margin-top: 10px;
     margin-left: 520px;
-    
-    
     display: flex;
     text-align: justify;
-
 }
